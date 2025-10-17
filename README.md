@@ -8,7 +8,7 @@ When I'm not coding, you can catch me exploring new hiking trails 🥾, experime
 
 **My skills**
 
-Python MySQL Git linux Google Analytics
+Python MySQL Git linux Google Analytics Power BI
 
 
 <!---
